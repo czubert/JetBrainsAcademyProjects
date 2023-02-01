@@ -1,0 +1,8 @@
+type: framework
+content:
+- Preprocess the text corpus
+- Break the dataset into bigrams
+- Create a Markov chain model
+- Generate random text
+- Generate full sentences
+current_task: 3

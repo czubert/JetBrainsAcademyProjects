@@ -1,0 +1,14 @@
+type: hyperskill
+title: Hangman
+language: English
+summary: "<p>Hangman is a popular yet grim puzzle game. A cruel computer hides a word\
+  \ from you, which you try to guess letter by letter. If you fail, you&#39;ll be\
+  \ &ldquo;hanged&rdquo;. If you win, you&#39;ll survive. You&rsquo;ve probably played\
+  \ the game at least once or twice. Now you can actually create this game yourself!</p><br/><br/>Learn\
+  \ more at <a href=\"https://hyperskill.org/projects/69?utm_source=ide&utm_medium=ide&utm_campaign=ide&utm_content=project-card\"\
+  >https://hyperskill.org/projects/69</a>"
+programming_language: Python
+content:
+- Hangman
+- Topics
+mode: Study
