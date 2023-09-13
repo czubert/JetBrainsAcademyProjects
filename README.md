@@ -1,6 +1,5 @@
 # JetBrainsAcademyProjects
-_GitHub links (left side) to solved projects of JetBrains Academy - only the final code, as it would be hard to present it stage after stage._  
-_Links to descriptions of projects (right side)_  
+_GitHub links to solved projects of JetBrains Academy - only the final code, as it would be hard to present it stage after stage._
 _Projects sorted by the difficulty level_  
 
 ## Challenging
