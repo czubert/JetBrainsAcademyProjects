@@ -11,7 +11,7 @@ NBA Data Preprocessing - [GitHub](https://github.com/czubert/JetBrainsAcademyPro
 Simple Tic-Tac-Toe - [GitHub](https://github.com/czubert/JetBrainsAcademyProjects/tree/master/Simple_Tic-Tac-Toe) - [description](https://hyperskill.org/projects/73?category=1&track=6)  
 Smart Calculator ✨ - [GitHub](https://github.com/czubert/JetBrainsAcademyProjects/tree/master/SmartCalculator) - [description](https://hyperskill.org/projects/74?category=1&track=2)  
 Static Code Analyzer ✨ - [GitHub](https://github.com/czubert/JetBrainsAcademyProjects/tree/master/StaticCodeAnalyzer) - [description](https://hyperskill.org/projects/112?category=1&track=2)  
-Jeopardy! Question Answering Bot ✨ - [GitHub]() - [description](https://hyperskill.org/projects/324) - [download data](https://stepik.org/media/attachments/lesson/832889/jeopardy.json)
+Jeopardy! Question Answering Bot ✨ - [GitHub](https://github.com/czubert/JetBrainsAcademyProjects/tree/master/JeopardyQuestionAnsweringBot) - [description](https://hyperskill.org/projects/324) - [download data](https://stepik.org/media/attachments/lesson/832889/jeopardy.json)
 
 ## Hard
 Data Analysis For Hospitals ✨ - [GitHub](https://github.com/czubert/JetBrainsAcademyProjects/tree/master/DataAnalysisForHospitals) - [description](https://hyperskill.org/projects/152?category=1&track=28)  
