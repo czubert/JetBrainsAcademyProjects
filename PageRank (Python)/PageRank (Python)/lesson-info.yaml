@@ -1,0 +1,8 @@
+type: framework
+content:
+  - Linear ranking
+  - Iterative method
+  - Damping parameter
+  - Arbitrary network
+  - Basic search engine
+current_task: 4
